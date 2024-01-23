@@ -14,5 +14,20 @@ namespace ToDoList
         {
             InitializeComponent();
         }
+
+        private void Add_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Edit_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Delete_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }
